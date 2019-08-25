@@ -4,6 +4,7 @@ module Figaro
       config.before_configuration do
         Figaro.load
       end
+      config.file_watcher = nil
     end
   end
 end
