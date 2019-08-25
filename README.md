@@ -3,10 +3,10 @@
 Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file
 
 [![Gem Version](https://img.shields.io/gem/v/figaro.svg?style=flat-square)](http://badge.fury.io/rb/figaro)
-[![Build Status](https://img.shields.io/travis/laserlemon/figaro/master.svg?style=flat-square)](https://travis-ci.org/laserlemon/figaro)
-[![Code Climate](https://img.shields.io/codeclimate/github/laserlemon/figaro.svg?style=flat-square)](https://codeclimate.com/github/laserlemon/figaro)
-[![Coverage Status](https://img.shields.io/codeclimate/coverage/github/laserlemon/figaro.svg?style=flat-square)](https://codeclimate.com/github/laserlemon/figaro)
-[![Dependency Status](https://img.shields.io/gemnasium/laserlemon/figaro.svg?style=flat-square)](https://gemnasium.com/laserlemon/figaro)
+[![Build Status](https://img.shields.io/travis/seielit/figaro/master.svg?style=flat-square)](https://travis-ci.org/seielit/figaro)
+[![Code Climate](https://img.shields.io/codeclimate/github/seielit/figaro.svg?style=flat-square)](https://codeclimate.com/github/seielit/figaro)
+[![Coverage Status](https://img.shields.io/codeclimate/coverage/github/seielit/figaro.svg?style=flat-square)](https://codeclimate.com/github/seielit/figaro)
+[![Dependency Status](https://img.shields.io/gemnasium/seielit/figaro.svg?style=flat-square)](https://gemnasium.com/seielit/figaro)
 
 **NOTE:** If you're using Figaro 0.7 or prior, please refer to the
 [appropriate documentation](https://github.com/laserlemon/figaro/tree/0-stable#readme)
