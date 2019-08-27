@@ -1,3 +1,10 @@
+## 1.1.2 / 2019-08-27
+
+* [ENHANCEMENT] Enable usage outside of Rails ([thanks to l8nite](https://github.com/laserlemon/figaro/pull/232))
+* [ENHANCEMENT] Update Rails and Ruby supported versions and fix test scripts
+* [FEATURE] Add Figaro::Settings DSL for abstracting data conversion and
+  manipulation
+
 ## 1.1.1 / 2015-04-30
 
 * [BUGFIX] Fix crash when environment-specific configuration is `nil`
