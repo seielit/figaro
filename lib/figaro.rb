@@ -1,6 +1,7 @@
 require "figaro/error"
 require "figaro/env"
 require "figaro/application"
+require "figaro/settings"
 
 module Figaro
   extend self
