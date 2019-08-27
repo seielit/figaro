@@ -1,14 +1,14 @@
 # encoding: utf-8
 
 Gem::Specification.new do |gem|
-  gem.name    = "figaro"
-  gem.version = "1.1.1"
+  gem.name    = "seielit-figaro"
+  gem.version = "1.1.2"
 
   gem.author      = "Steve Richert"
   gem.email       = "steve.richert@gmail.com"
   gem.summary     = "Simple Rails app configuration"
-  gem.description = "Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file"
-  gem.homepage    = "https://github.com/laserlemon/figaro"
+  gem.description = "Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file (fork of https://github.com/laserlemon/figaro)"
+  gem.homepage    = "https://github.com/seielit/figaro"
   gem.license     = "MIT"
 
   gem.add_dependency "thor", "~> 0.14"
