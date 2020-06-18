@@ -2,6 +2,8 @@
 
 Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
 
+> THIS IS DEPRECATED, PLEASE USE [rubyconfig/config](https://github.com/rubyconfig/config) (with schemas).
+
 This fork includes some enhancements, see below.
 
 [![Gem Version](https://img.shields.io/gem/v/figaro.svg?style=flat-square)](http://badge.fury.io/rb/figaro)
